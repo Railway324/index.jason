@@ -1,7 +1,7 @@
 const { Telegraf, Markup } = require('telegraf');
 
 // Bot Token from Environment Variable
-const bot = new Telegraf(process.env.BOT_TOKEN);
+const bot = new Telegraf(process.env.8565321498:AAFI17mSc5-Ls4XOE7Z-5xgL7376WyJGAmM);
 
 // Channel link
 const CHANNEL_LINK = 'https://t.me/finorixproai';
